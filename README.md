@@ -135,7 +135,7 @@ Mais informações: [`evidencias/README.md`](evidencias/README.md).
 
 ## 11. Notebook compartilhado
 
-> 🔗 **Link do notebook:** _a ser inserido após o compartilhamento do notebook no NotebookLM._
+> 🔗 **Link do notebook:** https://notebooklm.google.com/notebook/a10006ca-c732-40d8-aa40-5e177e02e1c3
 
 ## 12. Tecnologias e ferramentas
 
@@ -213,8 +213,8 @@ segundo-cerebro-erp/
 - [x] Gerar mapa mental.
 - [ ] Gerar apresentação de slides.
 - [ ] Salvar evidências.
-- [ ] Compartilhar o notebook.
-- [ ] Inserir o link do notebook no README.
+- [x] Compartilhar o notebook.
+- [x] Inserir o link do notebook no README.
 - [ ] Publicar o repositório no GitHub.
 
 > Marque cada item somente após a existência de evidência correspondente neste repositório.
