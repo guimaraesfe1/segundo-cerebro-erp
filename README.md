@@ -215,6 +215,6 @@ segundo-cerebro-erp/
 - [ ] Salvar evidências.
 - [x] Compartilhar o notebook.
 - [x] Inserir o link do notebook no README.
-- [ ] Publicar o repositório no GitHub.
+- [x] Publicar o repositório no GitHub.
 
 > Marque cada item somente após a existência de evidência correspondente neste repositório.
