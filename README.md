@@ -78,10 +78,9 @@ O NotebookLM foi escolhido por responder com base **nas fontes adicionadas pelo 
 |---|-------|------|:-------------------------------------:|
 | 1 | [Odoo Documentation](https://www.odoo.com/documentation/) | Documentação técnica oficial | ⬜ Pendente |
 | 2 | [SAP ERP](https://www.sap.com/brazil/products/erp.html) | Página institucional do fabricante | ⬜ Pendente |
-| 3 | [TOTVS](https://www.totvs.com/) | Site institucional do fabricante | ⬜ Pendente |
-| 4 | [Canal oficial do Odoo](https://www.youtube.com/@Odoo) | Vídeos oficiais (YouTube) | ⬜ Pendente |
+| 3 | [Canal oficial do Odoo](https://www.youtube.com/@Odoo) | Vídeos oficiais (YouTube) | ⬜ Pendente |
 
-**Justificativa de confiabilidade:** todas as fontes são **oficiais**, publicadas pelos próprios fabricantes de ERP (Odoo, SAP e TOTVS), o que reduz o risco de informações desatualizadas ou incorretas. A combinação contempla uma solução de código aberto com documentação pública detalhada (Odoo), um líder global do mercado corporativo (SAP) e um dos principais fornecedores do mercado brasileiro (TOTVS).
+**Justificativa de confiabilidade:** todas as fontes são **oficiais**, publicadas pelos próprios fabricantes de ERP (Odoo e SAP), o que reduz o risco de informações desatualizadas ou incorretas. A combinação contempla uma solução de código aberto com documentação pública detalhada (Odoo) e um líder global do mercado corporativo (SAP).
 
 Detalhamento completo: [`fontes/fontes-utilizadas.md`](fontes/fontes-utilizadas.md).
 

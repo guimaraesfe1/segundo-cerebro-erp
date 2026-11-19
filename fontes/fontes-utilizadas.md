@@ -9,7 +9,7 @@ As fontes foram escolhidas com base nos seguintes critérios:
 - **Origem oficial:** conteúdo publicado diretamente pelo fabricante do ERP.
 - **Relevância:** abordagem dos módulos e processos estudados (estoque, vendas, PDV, compras, financeiro, fiscal e relatórios).
 - **Atualização:** materiais mantidos pelos próprios fornecedores.
-- **Diversidade:** combinação de solução de código aberto, solução corporativa global e solução nacional.
+- **Diversidade:** combinação de solução de código aberto com documentação pública (Odoo) e solução corporativa global (SAP).
 
 ## Legenda de status
 
@@ -47,20 +47,7 @@ As fontes foram escolhidas com base nos seguintes critérios:
 | **Verificada no NotebookLM** | ⬜ Pendente |
 | **Observações** | _Registrar aqui se o conteúdo da página foi importado integralmente._ |
 
-## 3. TOTVS
-
-| Campo | Informação |
-|-------|------------|
-| **Nome** | TOTVS |
-| **Link** | https://www.totvs.com/ |
-| **Tipo de conteúdo** | Site institucional oficial do fabricante |
-| **Assunto abordado** | Soluções de gestão empresarial (ERP) voltadas ao mercado brasileiro |
-| **Justificativa** | A TOTVS é uma das principais fornecedoras de ERP do Brasil, trazendo o contexto nacional da gestão empresarial, incluindo aspectos ligados à realidade fiscal brasileira. |
-| **Adicionada no NotebookLM** | ⬜ Pendente |
-| **Verificada no NotebookLM** | ⬜ Pendente |
-| **Observações** | _Registrar aqui quais páginas específicas do site foram adicionadas (a página inicial pode conter pouco conteúdo técnico)._ |
-
-## 4. Canal oficial do Odoo (YouTube)
+## 3. Canal oficial do Odoo (YouTube)
 
 | Campo | Informação |
 |-------|------------|
@@ -81,7 +68,6 @@ As fontes foram escolhidas com base nos seguintes critérios:
 |---|-------|------|:----------:|:----------:|
 | 1 | [Odoo Documentation](https://www.odoo.com/documentation/) | Documentação | ⬜ | ⬜ |
 | 2 | [SAP ERP](https://www.sap.com/brazil/products/erp.html) | Site institucional | ⬜ | ⬜ |
-| 3 | [TOTVS](https://www.totvs.com/) | Site institucional | ⬜ | ⬜ |
-| 4 | [Canal oficial do Odoo](https://www.youtube.com/@Odoo) | Vídeos | ⬜ | ⬜ |
+| 3 | [Canal oficial do Odoo](https://www.youtube.com/@Odoo) | Vídeos | ⬜ | ⬜ |
 
 > Atualize os status somente após confirmar, no NotebookLM, que cada fonte foi processada, e salve a captura de tela correspondente em [`../evidencias/fontes/`](../evidencias/fontes/).

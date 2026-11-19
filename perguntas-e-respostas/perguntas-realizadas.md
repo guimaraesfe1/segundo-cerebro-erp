@@ -153,7 +153,7 @@ Abaixo está o detalhamento passo a passo desse fluxo, do registro inicial aos i
 - A resposta cobriu o fluxo pedido (PDV → estoque → financeiro) e foi além, incluindo compras (reabastecimento) e relatórios/BI, o que demonstra o impacto de uma venda em vários módulos.
 - Apresentou uma tabela-resumo da integração e uma nota informando o que **não** está coberto pelas fontes (impressoras térmicas e bibliotecas fiscais locais), em linha com a regra de informar lacunas.
 - **Trechos sem citação:** a "Visão Técnica/Dados" (tabelas `sales_order` e `sales_order_line`, PostgreSQL), a "Visão Técnica/Integridade" (transação ACID, *race conditions*) e a frase sobre tabela de preços, descontos e tributos. Esses trechos parecem vir do conhecimento geral do modelo, possivelmente estimulado pela regra 6 da diretriz (exemplos técnicos), e devem ser lidos com cautela.
-- A emissão de nota fiscal aparece de forma genérica, sem particularidades do Brasil (ex.: NF-e/NFC-e), o que é coerente com a ausência de fontes nacionais (TOTVS) no notebook.
+- A emissão de nota fiscal aparece de forma genérica, sem particularidades do Brasil (ex.: NF-e/NFC-e), o que é coerente com a ausência de fontes brasileiras no notebook.
 - _Complementar após a verificação das citações._
 
 **Evidência:** _pendente (salvar em `../evidencias/respostas/`)_
