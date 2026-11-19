@@ -205,7 +205,7 @@ segundo-cerebro-erp/
 
 ## 15. Checklist de conclusão
 
-- [ ] Criar notebook no NotebookLM.
+- [x] Criar notebook no NotebookLM.
 - [x] Adicionar fontes confiáveis.
 - [x] Configurar a diretriz do especialista.
 - [x] Realizar as perguntas de teste.
