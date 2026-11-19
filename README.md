@@ -117,7 +117,7 @@ As respostas obtidas, as fontes citadas e as observações serão registradas em
 | Material | Formato | Local | Status |
 |----------|---------|-------|:------:|
 | Mapa mental sobre ERP | PNG | [`materiais/mapa-mental/mapa-mental-erp.png`](materiais/mapa-mental/mapa-mental-erp.png) | ✅ Salvo |
-| Apresentação sobre os módulos de um ERP | PDF | [`materiais/apresentacao/`](materiais/apresentacao/) | ⬜ Pendente |
+| Apresentação "A Anatomia do Negócio Moderno: como o ERP atua como o sistema nervoso central da sua empresa" | PDF | [`materiais/apresentacao/apresentacao-anatomia-do-negocio-moderno.pdf`](materiais/apresentacao/apresentacao-anatomia-do-negocio-moderno.pdf) | ✅ Salvo |
 
 Mais informações: [`materiais/README.md`](materiais/README.md).
 
@@ -211,7 +211,7 @@ segundo-cerebro-erp/
 - [x] Realizar as perguntas de teste.
 - [ ] Verificar as citações das respostas.
 - [x] Gerar mapa mental.
-- [ ] Gerar apresentação de slides.
+- [x] Gerar apresentação de slides.
 - [ ] Salvar evidências.
 - [x] Compartilhar o notebook.
 - [x] Inserir o link do notebook no README.
