@@ -74,13 +74,16 @@ O NotebookLM foi escolhido por responder com base **nas fontes adicionadas pelo 
 
 ## 6. Fontes utilizadas
 
-| # | Fonte | Tipo | Adicionada e verificada no NotebookLM |
-|---|-------|------|:-------------------------------------:|
-| 1 | [Odoo Documentation](https://www.odoo.com/documentation/) | Documentação técnica oficial | ⬜ Pendente |
-| 2 | [SAP ERP](https://www.sap.com/brazil/products/erp.html) | Página institucional do fabricante | ⬜ Pendente |
-| 3 | [Canal oficial do Odoo](https://www.youtube.com/@Odoo) | Vídeos oficiais (YouTube) | ⬜ Pendente |
+| # | Fonte | Tipo | Adicionada | Verificada |
+|---|-------|------|:----------:|:----------:|
+| 1 | [Odoo Documentation](https://www.odoo.com/documentation/20.0/) | Documentação técnica oficial | ✅ | ⬜ |
+| 2 | [SAP — What is ERP?](https://www.sap.com/resources/what-is-erp) | Artigo do fabricante | ✅ | ⬜ |
+| 3 | [Oracle ERP](https://www.oracle.com/erp/) | Página institucional do fabricante | ✅ | ⬜ |
+| 4 | [NetSuite — ERP Use Cases](https://www.netsuite.com/portal/resource/articles/erp/erp-use-cases.shtml) | Artigo do fabricante | ✅ | ⬜ |
+| 5 | [PostgreSQL Documentation](https://www.postgresql.org/docs/) | Documentação técnica oficial | ✅ | ⬜ |
+| 6 | [Canal oficial do Odoo](https://www.youtube.com/@Odoo) | Vídeos oficiais (YouTube) | ⚠️ | ⬜ |
 
-**Justificativa de confiabilidade:** todas as fontes são **oficiais**, publicadas pelos próprios fabricantes de ERP (Odoo e SAP), o que reduz o risco de informações desatualizadas ou incorretas. A combinação contempla uma solução de código aberto com documentação pública detalhada (Odoo) e um líder global do mercado corporativo (SAP).
+**Justificativa de confiabilidade:** todas as fontes são **oficiais**, publicadas pelos próprios fabricantes de software (Odoo, SAP, Oracle/NetSuite) ou pelo projeto oficial do PostgreSQL, o que reduz o risco de informações desatualizadas ou incorretas. A combinação contempla uma solução de código aberto com documentação pública detalhada (Odoo), líderes globais do mercado corporativo (SAP e Oracle/NetSuite) e a documentação do banco de dados que sustenta a parte técnica do ERP (PostgreSQL).
 
 Detalhamento completo: [`fontes/fontes-utilizadas.md`](fontes/fontes-utilizadas.md).
 
@@ -203,7 +206,7 @@ segundo-cerebro-erp/
 ## 15. Checklist de conclusão
 
 - [ ] Criar notebook no NotebookLM.
-- [ ] Adicionar fontes confiáveis.
+- [x] Adicionar fontes confiáveis.
 - [x] Configurar a diretriz do especialista.
 - [x] Realizar as perguntas de teste.
 - [ ] Verificar as citações das respostas.
