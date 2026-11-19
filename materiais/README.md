@@ -6,7 +6,7 @@ Esta pasta armazena os materiais produzidos pelo Google NotebookLM a partir das 
 
 | Material | Formato | Pasta | Status |
 |----------|---------|-------|:------:|
-| Mapa mental | PNG | [`mapa-mental/`](mapa-mental/) | ⬜ Pendente |
+| Mapa mental | PNG | [`mapa-mental/mapa-mental-erp.png`](mapa-mental/mapa-mental-erp.png) | ✅ Salvo |
 | Apresentação de slides | PDF | [`apresentacao/`](apresentacao/) | ⬜ Pendente |
 | Guias de estudo | PDF ou Markdown | `materiais/` (raiz) | ⬜ Pendente |
 | Resumos | PDF ou Markdown | `materiais/` (raiz) | ⬜ Pendente |

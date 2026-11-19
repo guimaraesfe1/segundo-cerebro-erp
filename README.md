@@ -116,7 +116,7 @@ As respostas obtidas, as fontes citadas e as observações serão registradas em
 
 | Material | Formato | Local | Status |
 |----------|---------|-------|:------:|
-| Mapa mental sobre ERP | PNG | [`materiais/mapa-mental/`](materiais/mapa-mental/) | ⬜ Pendente |
+| Mapa mental sobre ERP | PNG | [`materiais/mapa-mental/mapa-mental-erp.png`](materiais/mapa-mental/mapa-mental-erp.png) | ✅ Salvo |
 | Apresentação sobre os módulos de um ERP | PDF | [`materiais/apresentacao/`](materiais/apresentacao/) | ⬜ Pendente |
 
 Mais informações: [`materiais/README.md`](materiais/README.md).
@@ -210,7 +210,7 @@ segundo-cerebro-erp/
 - [x] Configurar a diretriz do especialista.
 - [x] Realizar as perguntas de teste.
 - [ ] Verificar as citações das respostas.
-- [ ] Gerar mapa mental.
+- [x] Gerar mapa mental.
 - [ ] Gerar apresentação de slides.
 - [ ] Salvar evidências.
 - [ ] Compartilhar o notebook.
